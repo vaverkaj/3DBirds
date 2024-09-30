@@ -1,0 +1,18 @@
+C:\Git\3DBirds\.godot\mono\temp\bin\Debug\3D Birds.deps.json
+C:\Git\3DBirds\.godot\mono\temp\bin\Debug\3D Birds.runtimeconfig.json
+C:\Git\3DBirds\.godot\mono\temp\bin\Debug\3D Birds.dll
+C:\Git\3DBirds\.godot\mono\temp\bin\Debug\3D Birds.pdb
+C:\Git\3DBirds\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Git\3DBirds\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.csproj.AssemblyReference.cache
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.AssemblyInfoInputs.cache
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.AssemblyInfo.cs
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.csproj.CoreCompileInputs.cache
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.sourcelink.json
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.csproj.Up2Date
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.dll
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\refint\3D Birds.dll
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.pdb
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\3D Birds.genruntimeconfig.cache
+C:\Git\3DBirds\.godot\mono\temp\obj\Debug\ref\3D Birds.dll

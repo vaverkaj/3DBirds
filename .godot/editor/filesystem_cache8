@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1727721343
+bird1.glb::PackedScene::7640882548649015938::1727718889::1727720979::1::::<><>::
+bird.blend::PackedScene::6340618574034453537::1727718889::1727720981::1::::<><>::
+Bird.cs::CSharpScript::-1::1727718889::0::1::::<>Node3D<>::
+bird.glb::PackedScene::1749082970460028923::1727718889::1727720981::1::::<><>::
+BirdMesh3D.tscn::PackedScene::1110731115870246672::1727718889::0::1::::<><>::res://Bird.cs<>uid://y6je18bwkdc2::::res://bird.glb
+Birds.cs::CSharpScript::-1::1727718889::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::8201467472342807327::1727718889::1727720978::1::::<><>::
+RotatingCamera3D.cs::CSharpScript::-1::1727718889::0::1::::<>Node3D<>::
+scene.tscn::PackedScene::7898081154699784101::1727721340::0::1::::<><>::res://RotatingCamera3D.cs<>res://Birds.cs
+::res://NuGet/::1727718889
+::res://NuGet/config/::1727718889
